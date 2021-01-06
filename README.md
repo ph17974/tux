@@ -103,17 +103,17 @@ jpg's
 
 png's
 ***
-- tux001.png - Soccer Tux (Country: I don't know!).
-- tux002.png - 2 Tuxes.
-- tux003.png - Surfer Tux.
-- tux004.png - Soccer Tux (Germany).
-- tux005.png - Professor Tux.
-- tux006.png - Santa Claus Tux.
-- tux007.png - Manager Tux.
-- tux008.png - Hippie Tux.
-- tux009.png - Cowboy Tux.
-- tux010.png - Graduate Tux.
-- tux011.png - Electronics Tux.
-- tux012.png - Nurse Tux.
-- tux013.png - Diver Tux.
-- tux014.png - Professor Tux.
+- tuxp001.png - Soccer Tux (Country: I don't know!).
+- tuxp002.png - 2 Tuxes.
+- tuxp003.png - Surfer Tux.
+- tuxp004.png - Soccer Tux (Germany).
+- tuxp005.png - Professor Tux.
+- tuxp006.png - Santa Claus Tux.
+- tuxp007.png - Manager Tux.
+- tuxp008.png - Hippie Tux.
+- tuxp009.png - Cowboy Tux.
+- tuxp010.png - Graduate Tux.
+- tuxp011.png - Electronics Tux.
+- tuxp012.png - Nurse Tux.
+- tuxp013.png - Diver Tux.
+- tuxp014.png - Professor Tux.
