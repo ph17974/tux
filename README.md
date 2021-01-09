@@ -100,6 +100,16 @@ jpg's
 - tux089.jpg - B.A. Baracus Tux.
 - tux090.jpg - Olympic Tux.
 - tux091.jpg - Tux with a Christmas hat.
+- tux092.jpg - Baywatch Tux.
+- tux093.jpg - Artist Tux.
+- tux094.jpg - Baby Tux.
+- tux095.jpg - Judoka Tux.
+- tux096.jpg - Horror Tux.
+- tux097.jpg - Matador Tux.
+- tux098.jpg - Dragon Tux.
+- tux099.jpg - Trompetist Tux.
+- tux100.jpg - Buzz Lightyear Tux (Toy Story).
+- tux101.jpg - Sportive Tux.
 
 png's
 ***
